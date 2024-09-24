@@ -8,7 +8,7 @@ I'm a developer with a passion for technology and programming. I enjoy exploring
 
 ## 🚀 Most Used Languages
 
-![Antônio GitHub languages must utilits](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide=css&theme=tokyonight&hide_border=false&username=Antonio880)
+![Antônio GitHub languages must utilits](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide=css,html&theme=tokyonight&hide_border=false&username=Antonio880&langs_count=4)
 
 ## 💼 Skills
 

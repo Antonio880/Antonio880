@@ -12,14 +12,14 @@ I'm a developer with a passion for technology and programming. I enjoy exploring
 
 ## 💼 Skills
 
-- **Frontend**: React, React Native, TS
-- **Backend**: Node.js, Express, Spring-Boot, Ruby on Rails
+- **Frontend**: React, React Native, TS, Next
+- **Backend**: Node.js, Express, Spring-Boot, Nest
 - **Databases**: MySQL, MongoDB, Postgres
 - **Others**: Tailwind CSS, Git
 
 ## 📫 How to Reach Me
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/antônio-cruz-gomes-b32aa723b/) or contact me via [Email](mailto:antoniocruzgomes880@gmail.com).
+You can find me on [LinkedIn](https://www.linkedin.com/in/antoniocruzgomes/) or contact me via [Email](mailto:antoniocruzgomes880@gmail.com).
 
 ---
 

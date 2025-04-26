@@ -1,4 +1,4 @@
-# Hello, I'm Antônio! 👋
+# Hello, I'm Antônio!
 
 I'm a developer with a passion for technology and programming. I enjoy exploring different languages and frameworks, always on the lookout for new challenges and learning opportunities. On my GitHub, you'll find a variety of projects reflecting my interest in web and mobile development, among other areas.
 

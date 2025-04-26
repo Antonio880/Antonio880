@@ -21,6 +21,3 @@ I'm a developer with a passion for technology and programming. I enjoy exploring
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/antoniocruzgomes/) or contact me via [Email](mailto:antoniocruzgomes880@gmail.com).
 
----
-
-Always open to collaborations and new projects. Let's build something amazing together!

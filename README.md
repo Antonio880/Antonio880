@@ -13,7 +13,7 @@ I'm a developer with a passion for technology and programming. I enjoy exploring
 ## 💼 Skills
 
 - **Frontend**: React, React Native, TS, Next
-- **Backend**: Node.js, Express, Spring-Boot, Nest
+- **Backend**: Node.js, Express, Spring-Boot, Nest, Ruby on Rails
 - **Databases**: MySQL, MongoDB, Postgres
 - **Others**: Tailwind CSS, Git
 
